@@ -17,7 +17,7 @@ This project implements a webcam-based mouse control system using computer visio
 ## Installation
 1. Clone the repository to your local machine.
 2. Install Python 3.8 if you haven't already.
-3. Install the required dependencies using pip:
+3. Install the required dependencies using pip:  
       pip install opencv-python   
       pip install mediapipe  
 4. Run the main script using Python:  
